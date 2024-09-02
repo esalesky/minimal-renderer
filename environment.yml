@@ -1,0 +1,10 @@
+name: min
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pycairo
+  - manimpango
+  - pygobject
+  - ipykernel
+prefix: /Users/esalesky/opt/anaconda3/envs/min
